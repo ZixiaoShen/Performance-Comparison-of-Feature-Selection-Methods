@@ -8,11 +8,12 @@ Statistical Based Methods
 ---------------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Statistical_Based/com_Statistical_Based_FS.png)
 
-Stability: 
+**Stability:** 
 
 T Score FS : 0.4332 
 
 Gini Index FS : 0.61628
+
+**Robustness:**
 
