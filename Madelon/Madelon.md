@@ -10,7 +10,7 @@ Statistical Based Methods
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Statistical_Based/Acc_Statistical_FS.png)
 
-**Stability:** 
+**Stability:**
 
 T Score FS : 0.4332 
 
@@ -19,4 +19,15 @@ Gini Index FS : 0.61628
 **Robustness:**
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Statistical_Based/Robustness_Statistical_FS.png)
+
+Similarity Based Methods
+-----------------------------------
+**Classification Accuracy:**
+
+
+**Stability:**
+
+
+**Robustness:**
+
 
