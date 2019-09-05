@@ -18,3 +18,5 @@ Gini Index FS : 0.61628
 
 **Robustness:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Statistical_Based/Robustness_Statistical_FS.png)
+
