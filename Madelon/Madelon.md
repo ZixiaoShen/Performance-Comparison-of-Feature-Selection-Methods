@@ -14,7 +14,7 @@ Statistical Based Methods
 
 T Score FS : 0.4332 
 
-Gini Index FS : 0.61628
+Gini Index FS : 0.6163
 
 **Robustness:**
 
