@@ -24,6 +24,8 @@ Similarity Based Methods
 -----------------------------------
 **Classification Accuracy:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Similarity_Based/Acc_Similarity_FS.png)
+
 
 **Stability:**
 
