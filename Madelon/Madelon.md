@@ -50,4 +50,7 @@ MIFS: 0.5709
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Information_Based/Robustness_Information_FS.png)
 
+Sparse Learning Based Methods
+-----------------------------------
+**Classification Accuracy:**
 
