@@ -26,10 +26,14 @@ Similarity Based Methods
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Similarity_Based/Acc_Similarity_FS.png)
 
-
 **Stability:**
 
+Laplacian Score: 0.6289
+
+ReliefF: 0.5806
 
 **Robustness:**
+
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Similarity_Based/Robustness_Similarity_FS.png)
 
 
