@@ -42,5 +42,12 @@ Information Theoretical Based Methods
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Information_Based/Acc_Information_FS.png)
 
+**Stability:**
+
+MIFS: 0.5709
+
+**Robustness:**
+
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Information_Based/Robustness_Information_FS.png)
 
 
