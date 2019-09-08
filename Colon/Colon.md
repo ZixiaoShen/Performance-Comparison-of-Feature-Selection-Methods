@@ -12,9 +12,9 @@ Statistical Based Methods
 
 **Stability:**
 
-T Score FS : 0.4332 
+T Score FS : 0.0046
 
-Gini Index FS : 0.6163
+Gini Index FS : 0.0133
 
 **Robustness:**
 
