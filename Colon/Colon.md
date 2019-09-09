@@ -8,7 +8,7 @@ Statistical Based Methods
 ---------------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Acc_Statistical_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Statistical_Based/Acc_Statistical_FS.png)
 
 **Stability:**
 
