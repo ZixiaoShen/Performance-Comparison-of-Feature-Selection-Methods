@@ -54,7 +54,7 @@ Sparse Learning Based Methods
 -----------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Sparse_Learning/Acc_Sparse_Learning_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Sparse_Learning/Acc_Sparse_Learning.png)
 
 **Stability:**
 
