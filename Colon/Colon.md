@@ -44,11 +44,11 @@ Information Theoretical Based Methods
 
 **Stability:**
 
-MIFS: 0.5709
+MIFS: 0.0708
 
 **Robustness:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Information_Based/Robustness_Information_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Information_Based/Robustness_Information_FS.png)
 
 Sparse Learning Based Methods
 -----------------------------------
