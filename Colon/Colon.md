@@ -24,17 +24,17 @@ Similarity Based Methods
 -----------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Similarity_Based/Acc_Similarity_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Similarity_Based/Acc_Similarity_FS.png)
 
 **Stability:**
 
-Laplacian Score: 0.6289
+Laplacian Score: 0.8367
 
-ReliefF: 0.5806
+ReliefF: -0.0030
 
 **Robustness:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Similarity_Based/Robustness_Similarity_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Similarity_Based/Robustness_Similarity_FS.png)
 
 Information Theoretical Based Methods
 -----------------------------------------
