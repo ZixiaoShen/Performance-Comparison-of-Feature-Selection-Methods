@@ -40,7 +40,7 @@ Information Theoretical Based Methods
 -----------------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Information_Based/Acc_Information_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Information_Based/Acc_Information_FS.png)
 
 **Stability:**
 
