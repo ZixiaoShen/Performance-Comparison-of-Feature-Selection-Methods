@@ -62,7 +62,7 @@ UDFS: 0.0023
 
 **Robustness:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Sparse_Learning/Robustness_Sparse_Learning_FS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Sparse_Learning/Robustness_Sparse_Learning.png)
 
 Graph Based Methods
 --------------------------------------
