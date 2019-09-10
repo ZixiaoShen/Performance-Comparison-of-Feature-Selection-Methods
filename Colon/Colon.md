@@ -68,7 +68,7 @@ Graph Based Methods
 --------------------------------------
 **Classification Accuracy:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Graph_Based/Acc_IFS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Graph_Based/Acc_Graph_FS.png)
 
 **Stability:**
 
