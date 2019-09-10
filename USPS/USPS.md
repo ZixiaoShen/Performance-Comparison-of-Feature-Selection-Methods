@@ -10,15 +10,12 @@ Statistical Based Methods
 
 T-score is used for binary classifications.
 
+Gini Index is unable to get scores.
+
 **Stability:**
-
-T Score FS : 0.0046
-
-Gini Index FS : 0.0133
 
 **Robustness:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Statistical_Based/Robust_Statistical_FS.png)
 
 Similarity Based Methods
 -----------------------------------
