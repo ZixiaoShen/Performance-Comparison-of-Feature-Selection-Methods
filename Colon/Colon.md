@@ -72,8 +72,8 @@ Graph Based Methods
 
 **Stability:**
 
-IFS: 0.6236
+IFS: 0.0150
 
 **Robustness:**
 
-![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Graph_Based/Robustness_IFS.png)
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Colon/Graph_Based/Robustness_Graph_FS.png)
