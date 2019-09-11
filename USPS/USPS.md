@@ -31,6 +31,7 @@ ReliefF: 0.3299
 
 **Robustness:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/USPS/Similarity_Based/Robust_Similarity_FS.png)
 
 Information Theoretical Based Methods
 -----------------------------------------
