@@ -45,6 +45,7 @@ MIFS: 0.3156
 
 **Robustness:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/USPS/Information_Based/Robust_Information_FS.png)
 
 Sparse Learning Based Methods
 -----------------------------------
