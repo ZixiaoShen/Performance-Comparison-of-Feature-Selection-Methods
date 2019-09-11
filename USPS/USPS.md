@@ -40,7 +40,7 @@ Information Theoretical Based Methods
 
 **Stability:**
 
-MIFS: 0.0708
+MIFS: 0.3156
 
 **Robustness:**
 
