@@ -25,9 +25,9 @@ Similarity Based Methods
 
 **Stability:**
 
-Laplacian Score: 0.8367
+Laplacian Score: 0.4922
 
-ReliefF: -0.0030
+ReliefF: 0.3299
 
 **Robustness:**
 
