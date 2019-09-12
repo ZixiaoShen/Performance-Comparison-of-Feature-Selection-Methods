@@ -59,10 +59,11 @@ Graph Based Methods
 --------------------------------------
 **Classification Accuracy:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/USPS/Graph_Based/Acc_IFS.png)
 
 **Stability:**
 
-IFS: 0.0150
+IFS: 0.3511
 
 **Robustness:**
 
