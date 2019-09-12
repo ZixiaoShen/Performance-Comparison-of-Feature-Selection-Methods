@@ -51,13 +51,8 @@ Sparse Learning Based Methods
 -----------------------------------
 **Classification Accuracy:**
 
-
-**Stability:**
-
-UDFS: 0.0023
-
-**Robustness:**
-
+It is very time consuming to run the program as it
+is not a filter feature selection method.
 
 Graph Based Methods
 --------------------------------------
