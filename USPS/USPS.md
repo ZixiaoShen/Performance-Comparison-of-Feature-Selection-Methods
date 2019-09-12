@@ -67,3 +67,4 @@ IFS: 0.3511
 
 **Robustness:**
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/USPS/Graph_Based/Robust_IFS.png)
