@@ -49,10 +49,11 @@ MIFS: 0.3156
 
 Sparse Learning Based Methods
 -----------------------------------
-**Classification Accuracy:**
 
 It is very time consuming to run the program as it
 is not a filter feature selection method.
+
+Whether do we need to remove this method ?
 
 Graph Based Methods
 --------------------------------------
