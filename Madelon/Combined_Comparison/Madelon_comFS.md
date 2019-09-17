@@ -5,8 +5,17 @@ Classification Accuracy
 
 Stability
 ----------------------------------
+Gini-Index: 0.6163
 
+Laplacian Score: 0.62893
+
+ReliefF: 0.5806
+
+MIFS: 0.5709
+
+IFS: 0.6236
 
 Robustness
 ----------------------------------
+
 
