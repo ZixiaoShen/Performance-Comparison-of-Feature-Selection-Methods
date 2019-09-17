@@ -18,4 +18,5 @@ IFS: 0.6236
 Robustness
 ----------------------------------
 
+![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Combined_Comparison/Robust.png)
 
