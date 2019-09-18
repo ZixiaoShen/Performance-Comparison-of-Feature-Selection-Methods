@@ -17,6 +17,10 @@ IFS: 0.6236
 
 Robustness
 ----------------------------------
+Spearman Correlation by the Ranking:
 
 ![](https://github.com/ZixiaoShen/Performance-Comparison-of-Feature-Selection-Methods/blob/master/Madelon/Combined_Comparison/Robust.png)
+
+Pearson Correlation by the Feature Scores:
+
 
